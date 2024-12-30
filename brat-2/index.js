@@ -1,4 +1,5 @@
 function mudarCor(){
+    alert('teste');
     for(i=0; i<10; i++){
         setInterval(function() {
             h1.style.backgroundColor = "black";
